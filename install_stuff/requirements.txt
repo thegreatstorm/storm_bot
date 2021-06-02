@@ -1,5 +1,5 @@
 irc==18.0.0
 requests==2.22.0
-urllib3==1.25.2
+urllib3==1.26.5
 websockets==8.1
 configparser==4.0.2
